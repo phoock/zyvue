@@ -1,5 +1,4 @@
 import Vue from "vue";
-import moment from "moment";
 
 // 参考这种形式来实现轻量级vuex
 
@@ -51,4 +50,3 @@ export const themeMutations = {
     themeState.themeSize = val;
   },
 };
-
